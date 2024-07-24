@@ -7,6 +7,7 @@ Users can add, view, edit, and delete contacts, with data persistently stored in
 - Edit Contact: Users can modify existing contact information.
 - Delete Contact: Remove a contact from the contact list.
 - Persistent Storage: Contact data is saved locally using browser storage.
+  ![Capture d’écran 2024-07-24 230430](https://github.com/khadija-Saadani/task-manager/blob/master/Capture%20d%E2%80%99%C3%A9cran%202024-07-24%20230430.png?raw=true)
 ## Technology Stack 
 - HTML: Structure the user interface.
 - CSS: Style the application's appearance.
